@@ -8,7 +8,7 @@ environment:
   sdk: ">=2.0.0 <3.0.0"
 
 dependencies:
-  meta: ^1.2.2
+  meta: 1.1.8
   flutter:
     sdk: flutter
 
